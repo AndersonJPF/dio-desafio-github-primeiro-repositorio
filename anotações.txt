@@ -1,1 +1,6 @@
-anotações
+Funções Git
+
+git status - checa o status atual do branch
+git add - adiciona as alterações ao commit
+git commit - finaliza o commit
+git push - coloca o commit no repositório
